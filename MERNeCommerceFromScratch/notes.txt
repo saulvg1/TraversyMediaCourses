@@ -1,6 +1,6 @@
 //notes 
 
-section 4: 
+/*section 4*\
 
 23. Getting started with postman. 
 
@@ -8,3 +8,11 @@ section 4:
 -created a folder inside of the collection Proshop for all product endpoints. 
 - created an environment variable {{URL}} so that you dont have to type in http://localhost:5000 in each of the api GET requests.
 Also once the data base has a domain, you can easily replace the variable with the correct domain and replace the localhost domain.
+
+
+/*section 5*\
+25. an overview of Redux
+    - action creators(functions that dispatch actions) are created inside of components.
+        example: inside and action creator you can have a fetch request from an api and store the data then send that data through dispatching and action with a payload of that res.data
+    -the reducer receives the action and then runs a switch statement then a function is ran based on the action that was dispatched. 
+    
