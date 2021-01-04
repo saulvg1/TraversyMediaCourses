@@ -1,0 +1,10 @@
+
+
+
+
+# MISC
+.DS_Store
+.env
+.env.local
+.env.develpment.local.env.test.local
+.env.production.local
