@@ -79,4 +79,4 @@ const products = [
   },
 ];
 
-modules.exports = products;
+module.exports = products;
