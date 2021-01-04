@@ -1,0 +1,10 @@
+//notes 
+
+section 4: 
+
+23. Getting started with postman. 
+
+-Created a Collection of api calls.
+-created a folder inside of the collection Proshop for all product endpoints. 
+- created an environment variable {{URL}} so that you dont have to type in http://localhost:5000 in each of the api GET requests.
+Also once the data base has a domain, you can easily replace the variable with the correct domain and replace the localhost domain.
